@@ -41,6 +41,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* end header styling */
 
 a {
     color: #ffffff;
@@ -78,6 +79,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end hero styling */
 
 .content {
     width: 75%;
@@ -112,6 +114,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end benefits styling */
 
 /* footer styling */
 footer {
@@ -124,6 +127,7 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+ /* end footer styling */
 
 .float-left {
     float: left;
